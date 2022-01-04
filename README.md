@@ -1,2 +1,1 @@
-①djangoProject：Python Djangoプロジェクト
-②phpProject：phpプロジェクト
+phpProject：phpプロジェクト
